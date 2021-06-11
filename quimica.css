@@ -1,0 +1,155 @@
+body{
+	text-align:center;
+    background:url("https://static.vecteezy.com/system/resources/previews/002/196/477/original/colorful-watercolor-background-with-gold-accent-free-vector.jpg");
+	font-size:20px;
+	font-family:sans-serif; 
+	text-align:left;
+    }
+
+    header{
+      text-align:center;
+      background:url("https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg");
+      width:600px;
+      background:cover;
+      color:white;
+      }
+
+      #content{
+      	
+        background-color:lavender;
+        width:600px;
+        height:2600px;
+        
+        color:black;
+          }
+
+      a{
+      color:black;
+       }
+
+ ul{
+    padding:10px;
+    background:lavender; 
+    float:bottom;
+    }
+
+ #lista1{
+    display:inline;
+    padding:0px 10px 0px 10px;
+    }
+
+    h1{
+    	color:purple;
+    }
+
+    h2,h3,h4,h5{
+    	padding:5px;
+    	font-size:30px;
+    	color:black;
+    	text-align:center;
+    }
+    #foto2{
+        border:7px solid skyblue;
+        border-color:skyblue;
+        border-radius:10px;
+        width:550px;
+        height:350px;
+        float:center;
+
+    }
+
+    #foto1{
+    margin:40px 0px 0px 0px;
+    border:7px solid skyblue;
+    border-color:lavender;
+    border-radius:20px;
+    width:300px;
+    height:200px;
+    }
+
+    [lj-type="stage"] {
+    	 border:7px solid skyblue;
+        border-color:skyblue;
+        border-radius:10px;
+    width: 550px;
+    height: 350px;
+    max-width:800px;
+    margin:0 auto;
+}
+.btn-left {
+    float: left;
+}
+#arrows {
+    width: 100%;
+}
+
+#arrows>div {
+    width: 100%;
+    pointer-events: none;
+}
+
+.btn-right {
+    float: right;
+}
+
+.btn {
+    background-color: rgba(128, 128, 128, 0.5);
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    border-radius: 50%;
+    width: 30px;
+    pointer-events: all;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+@media only screen (min-width:768px){
+
+	header{
+      
+      width:900px;
+      background:cover;
+      color:white;
+      }
+
+      #content{
+      	
+        
+        width:900px;
+        height:2600px;
+        
+        
+          }
+	
+
+}
+
+@media only screen (min-width:1000px){
+
+	header{
+      
+      width:1000px;
+      background:cover;
+      color:white;
+      }
+
+      #content{
+      	
+        
+        width:1000px;
+        height:2600px;
+        
+        
+          }
+	
+
+}
+
+
+
+	
